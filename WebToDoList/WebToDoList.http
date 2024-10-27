@@ -1,0 +1,6 @@
+@WebToDoList_HostAddress = http://localhost:5204
+
+GET {{WebToDoList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
